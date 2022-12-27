@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <div class="row">
+      <h1>Pinia</h1>
       <div class="d-flex align-items-center justify-content-center my-3">
         <img src="https://pinia.vuejs.org/logo.svg" alt="" style="width:40px;">
         <h4 class="text-warning text-center">Pinia Blog</h4>
